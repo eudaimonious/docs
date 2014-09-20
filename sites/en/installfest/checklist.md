@@ -1,3 +1,5 @@
+haha
+
 # Installfest Completion Checklist
 
 1. Open a command line on your computer.
